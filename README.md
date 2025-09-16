@@ -244,10 +244,10 @@ MIT License - Feel free to use, modify, and distribute
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- 🌐 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**[Jaume Torra]**
+- 🌐 GitHub: [@JaumeTorra](https://github.com/JaumeTorra)
+- 📧 Email: jaumetorra.pro@gmail.com
+
 
 ## 🙏 Acknowledgments
 
